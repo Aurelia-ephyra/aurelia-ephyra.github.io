@@ -3,7 +3,7 @@ title: Thyroid health
 author: Avinash
 date: 2023-10-08 14:10:00 +0800
 categories: [Thyroid]
-tags: [Thyroid]
+tags: [Hormones]
 render_with_liquid: false
 ---
 
