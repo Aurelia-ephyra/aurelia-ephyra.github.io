@@ -7,7 +7,6 @@ tags: [Hormones]
 render_with_liquid: false
 ---
 
-# Thyroid health
 The thyroid gland produces triiodothyronine (T3) and thyroxine (T4) hormones which are important for all essential functions of the body. Any issues with the thyroid gland can affect the production of these hormones. This gland is located on the front side of our neck. It is a butterfly-shaped gland. It helps with metabolism, breathing, maintaining temperature, heart rate, etc. When your thyroid gland is producing too much or too little hormone then, it causes thyroid gland disorders. However, you can prevent these conditions by avoiding processed foods, eating iron-rich foods, or consuming selenium supplements in the diet. 
 
 Learn more in detail about thyroid health and its common conditions in this chapter. 
