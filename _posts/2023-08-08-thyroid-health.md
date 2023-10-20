@@ -7,7 +7,6 @@ tags: [Hormones]
 render_with_liquid: false
 ---
 
-
 # Thyroid health
 The thyroid gland produces triiodothyronine (T3) and thyroxine (T4) hormones which are important for all essential functions of the body. Any issues with the thyroid gland can affect the production of these hormones. This gland is located on the front side of our neck. It is a butterfly-shaped gland. It helps with metabolism, breathing, maintaining temperature, heart rate, etc. When your thyroid gland is producing too much or too little hormone then, it causes thyroid gland disorders. However, you can prevent these conditions by avoiding processed foods, eating iron-rich foods, or consuming selenium supplements in the diet. 
 
@@ -138,6 +137,3 @@ In case of your test shows the thyroid gland is overactive, your doctor suggests
 In case the doctor orders an ultrasound if they discover abnormal findings during a physical exam of your neck. If tests are abnormal, then the doctor takes a tissue sample of the thyroid to check whether you have thyroid cancer or not. Understand that, only blood tests are not enough to diagnose thyroid cancer. 
 
 Thyroid function tests are used to check your thyroid hormone levels in case you're having symptoms of thyroid diseases of an overactive or underactive gland. In case your results are abnormal, then the doctor suggests an ultrasound. In case your results come normal, the doctor gives you some medications to regulate your thyroid activity for better thyroid functioning. 
-
-
-
