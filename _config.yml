@@ -73,7 +73,7 @@ theme_mode: light
 img_cdn: "https://raw.githubusercontent.com/veritywanderer/veritywanderer.github.io"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/main/avatar_1.png"
+avatar: "/main/avatar_1.jpeg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
